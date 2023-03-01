@@ -28,7 +28,7 @@ function AboutPage() {
     <div>
       <img className="avatar" />
       <h1>About Me</h1>
-      <h2>Victor Yuen</h2>
+      <h2>VictorYuen</h2>
       <p>HEYYYYYYY <br /> IT WORKS WOOOOO</p>
 
       </div>
